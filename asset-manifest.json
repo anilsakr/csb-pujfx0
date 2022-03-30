@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://anilsakr.github.io/csb-pujfx0/static/css/main.e72d4031.chunk.css",
+    "main.js": "https://anilsakr.github.io/csb-pujfx0/static/js/main.8c6f8ae8.chunk.js",
+    "main.js.map": "https://anilsakr.github.io/csb-pujfx0/static/js/main.8c6f8ae8.chunk.js.map",
+    "runtime-main.js": "https://anilsakr.github.io/csb-pujfx0/static/js/runtime-main.bb6e8d00.js",
+    "runtime-main.js.map": "https://anilsakr.github.io/csb-pujfx0/static/js/runtime-main.bb6e8d00.js.map",
+    "static/js/2.ff345028.chunk.js": "https://anilsakr.github.io/csb-pujfx0/static/js/2.ff345028.chunk.js",
+    "static/js/2.ff345028.chunk.js.map": "https://anilsakr.github.io/csb-pujfx0/static/js/2.ff345028.chunk.js.map",
+    "index.html": "https://anilsakr.github.io/csb-pujfx0/index.html",
+    "precache-manifest.91fb5a0234cf2f9eca5759bc8448ca06.js": "https://anilsakr.github.io/csb-pujfx0/precache-manifest.91fb5a0234cf2f9eca5759bc8448ca06.js",
+    "service-worker.js": "https://anilsakr.github.io/csb-pujfx0/service-worker.js",
+    "static/css/main.e72d4031.chunk.css.map": "https://anilsakr.github.io/csb-pujfx0/static/css/main.e72d4031.chunk.css.map",
+    "static/js/2.ff345028.chunk.js.LICENSE.txt": "https://anilsakr.github.io/csb-pujfx0/static/js/2.ff345028.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb6e8d00.js",
+    "static/js/2.ff345028.chunk.js",
+    "static/css/main.e72d4031.chunk.css",
+    "static/js/main.8c6f8ae8.chunk.js"
+  ]
+}
